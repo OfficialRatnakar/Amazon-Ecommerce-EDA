@@ -188,5 +188,3 @@ Data Analyst | Python Developer | E-Commerce Insights | Visualization Specialist
 ---
 
 ## ⭐ **If you found this project helpful, please consider starring the repository!**
-✔ A short **resume-ready summary** for this project
-Just tell me!
